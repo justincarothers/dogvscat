@@ -1,0 +1,33 @@
+.left {
+  float: left;
+  background-color:red;
+  height: 3000px;
+  width: 50%;
+  height: 2000px;
+}
+
+.right {
+
+float: right;
+background-color: green;
+height: 3000px;
+width: 50%;
+height: 2000px;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  height: 100px;
+  width: auto;
+}
+
+
+.messageArea {
+  width: 100%;
+  background-color:gray;
+  min-height: 30px;
+}
